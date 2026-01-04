@@ -2,11 +2,11 @@
 
 A JavaScript exercise simulating a magical potion shop's inventory and order management system. This project was developed as part of my initial training as a Full Stack Web Developer.
 
-## 📋 Overview
+## Overview
 
 This exercise implements a complete potion shop management system where ingredients are tracked, potions are brewed according to recipes, and customer orders are processed. The shop manages stock levels, validates ingredient availability, and provides analytics on ingredient demand.
 
-## 🎯 Core Concepts Practiced
+## Core Concepts Practiced
 
 - **Arrays & Array Methods**: Managing parallel arrays for ingredients and stock quantities, using `push()`, array iteration, and index-based operations
 - **Objects & Object Properties**: Working with recipe objects using key-value pairs and dynamic property access
@@ -16,7 +16,7 @@ This exercise implements a complete potion shop management system where ingredie
 - **Algorithm Design**: Counting occurrences, finding duplicates, and tracking missing items
 - **State Management**: Modifying global arrays to reflect inventory changes after brewing potions
 
-## 🧩 Features Implemented
+## Features Implemented
 
 ### Stage 1: Basic Inventory
 - Initialize ingredient and stock arrays
@@ -42,11 +42,6 @@ This exercise implements a complete potion shop management system where ingredie
 - Calculate ingredient frequency
 - Identify the most requested ingredient
 
-## 🛠️ Technologies
-
-- Vanilla JavaScript (ES6+)
-- No external libraries or frameworks
-
-## 💡 Learning Outcomes
+## Learning Outcomes
 
 This exercise reinforced my understanding of fundamental JavaScript concepts including data structures, algorithmic thinking, and building practical applications from scratch. It demonstrates my ability to break down complex problems into manageable functions and handle real-world scenarios like inventory management and order fulfillment.
